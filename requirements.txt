@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-ollama
+networkx
+python-dotenv
+tiktoken
+numpy
+pandas
+scikit-learn
+sentence-transformers
